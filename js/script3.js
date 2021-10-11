@@ -41,7 +41,7 @@ const options = {
 };
 
 
-options.makeTest();
+options.makeTest(); figjpdfghp
 
 const {border, background} = options.colors;
 console.log(border);
